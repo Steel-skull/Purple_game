@@ -140,3 +140,6 @@
 * **Preferred Communication:** Calls in the class Discord server; messages/calls within the group.
 * **Meeting Frequency:** Formal calls on Tuesdays & Sundays. (Additional calls/small group meetings will be scheduled as needed.)
 * **Task Management:** A Gantt chart will be used to assign and track tasks.
+
+* Module Three Project Log - Team Development: QA and Testing Plan
+* 
