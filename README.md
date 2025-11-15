@@ -131,7 +131,7 @@
 
   * Create general map
   * Create an item holding area?
-  * Create intro too game
+  * Create an intro too game
 
 </details>
 
