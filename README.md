@@ -186,6 +186,6 @@
 
 ## 💬 Collaboration Workflow
 
-  * **Preferred Communication:** Calls in class discord; messages/other calls within group.
+  * **Preferred Communication:** Calls in class discord; messages/other calls within the group.
   * **Meeting Frequency:** Tuesdays/Sundays - Calls within class discord. (We want to play this by ear and if needed add in more calls/meet in small groups to help one another out).
   * **Task Management:** Gantt chart. We will write in there what we are working on/what we have done. Anyone can help one another create things and will be played by ear if someone needs help/would like to do something specific.
