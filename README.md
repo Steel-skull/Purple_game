@@ -88,7 +88,7 @@
 ### Core player systems
 
   * First person controller
-  * Pickups
+  * Pickups [Will be finalized in beta]
   * Magic shooting [edited]
 
 ### Basic enemy AI
